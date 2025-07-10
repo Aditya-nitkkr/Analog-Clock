@@ -9,7 +9,7 @@ A simple and elegant **Analog Clock** built using **HTML**, **CSS**, and **Vanil
 - ✅ HTML5
 - ✅ CSS3 (flexbox, transformations)
 - ✅ JavaScript (Date object, real-time update via `setInterval()`)
-- 
+  
 ## 💡 Features
 
 - ⏱️ Real-time analog clock synced with system time
